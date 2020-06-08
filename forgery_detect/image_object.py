@@ -2,7 +2,7 @@
 ###													   https://github.com/topics/reconstruction
 
 from PIL import Image
-import scipy.misc
+# import scipy.misc
 import imageio
 from math import pow
 import numpy as np
